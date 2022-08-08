@@ -7,3 +7,6 @@ perfect ver.
   3-1. 一回、5分間隔、無期限
 4. 操作タブで.bat->.vbsの順番になっていることを確認する
 5. 一度手動で実行しておく
+
+[Old ver.] https://github.com/Coordinate-Cat/reWi-Fi-connect
+(Archived)
