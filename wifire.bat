@@ -1,0 +1,1 @@
+netsh wlan connect name="SmartLife" interface="Wi-Fi"
